@@ -1,0 +1,472 @@
+body {
+    background-color: #ffffff;
+}
+
+/*NAVBAR*/
+
+.navbar {
+    margin-top: 35px;
+}
+
+.navbar-brand, .nav-link {
+    font-family: Poppins;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    color: #042944 !important;
+    
+}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 15px;
+    
+}
+
+.button {  
+    background: #3466f1;
+    border-radius: 10px;
+    border-color: #3466f1;
+    color: #F1F1F1;
+    font-size: 16px;
+
+    
+}
+
+.navbar-toggler {
+   border: none;
+}
+
+.fas {
+    color: #98CCCE;
+}
+
+/*JUMBOTRON*/
+
+.jumbotron {
+    background-color: #ffffff;
+    margin-top: 80px;
+}
+
+.display-4, .lead {
+    font-family: Poppins;
+    color: #042944;
+
+}
+
+.display-4 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.075em;
+}
+
+.about {
+    font-family: Poppins;
+}
+
+.img-about {
+    width: 360px;
+}
+
+.about-us {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+p.info{
+    color: #EF7746;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+}
+
+.about-us h1 {
+    color: #042944;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+    letter-spacing: 0.075em;
+}
+
+.mb-4 {
+    margin-top: 10px;
+}
+#btn-learn {
+    margin-top: -5px;
+    font-size: 10px;
+
+}
+
+/*SERVICE*/
+
+.provide {
+    margin-top: 300px;
+    font-family: Poppins;
+}
+
+.info1, .title, .desc {
+    text-align: center;
+}
+
+p.info1 {
+    color: #EF7746;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.18em;    
+}
+
+.title {
+    color: #042944;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0.075em;
+    
+}
+
+.desc {
+    margin-bottom: 60px;
+}
+
+.card-provide {
+    background-color: #F1F1F1;
+    border: none;
+    align-items: center;
+    box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+    border-radius: 45px;
+}
+
+.card-img-top {
+    width: 25%;
+    margin-top: 30px;
+}
+
+.card-title {
+    text-align: center;
+    color: #042944;
+    font-weight: 300;
+    font-size: 17px;
+}
+
+/* SWIPER */
+
+.mySwiper {
+    height: 480px;
+}
+
+.swiper-wrapper {
+    margin-top: 10px;
+    align-items: center;
+}
+
+.swiper-slide {
+    width: 286px;
+}
+
+.content {
+    width: 300px;
+    height: 400px;
+    background-color: #ffffff;
+    box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+    border-radius: 10px;
+}
+
+.swiper-slide img{
+    width: 180px;
+    border-radius: 7px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 32.5px;
+}
+
+.service-title, .service-subtitle {
+    margin-left: 32.5px;
+}
+
+.service-title {
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0.075em;
+}
+
+.service-subtitle {
+    margin-top: 10px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.075em;
+    margin-bottom: 30px;
+}
+
+#btn-service {
+    margin-left: 32.5px;
+}
+
+/* AREA */
+
+.area-title {
+    font-size: 30px;
+}
+
+/* ACTION */
+
+.action {
+    margin-top: 300px;
+}
+
+.action-title {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0.075em;
+        
+}
+
+.card-action {
+    border: none;
+}
+
+.action-body {
+    background-color: #F1F1F1;
+}
+
+/* FOOTER */
+
+footer {
+    margin-top: 50px;
+    background-color: #000000
+}
+
+.footer-title {
+    margin-top: 80px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 0px;
+    color: #fdfdfd;
+}
+
+.footer-menu {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-link {
+    color: #F1F1F1;
+    margin-right: 42px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0px;
+}
+
+.media-icons {
+    margin-left: 230px;
+    font-size: 25px;
+}
+
+.fab {
+    color: #ffffff;
+    margin-right: 30px;
+}
+
+.contact {
+    margin-top: 60px;
+    color: #ffffff;
+    font-family: Poppins;
+    margin-left: 220px;
+    font-size: 14px;
+}
+
+.copyright {
+    margin-left: 200px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 14px;
+}
+
+
+.button2 {
+    font-size: 13px;
+}
+
+.display-4 {
+    font-size: 38px;
+    line-height: 65px;
+}
+
+.lead {
+    font-size: 13px;
+    line-height: 23px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.hero {
+    margin-top: -20px;
+    width: 520px;
+    margin-left: -300px;
+}
+
+
+
+
+
+
+
+
+@media (min-width: 768px) {
+    
+    /*JUMBOTRON*/
+    .display-4 {
+        font-size: 26px;
+        line-height: 45px;
+    }
+
+    .lead {
+        font-size: 9px;
+        margin-top: 20px;
+    }
+
+    .hero {
+        margin-top: -70px;
+        width: 330px;
+    }
+
+
+    /*ABOUT*/
+    .about {
+        margin-top: 100px;
+    }
+
+    #btn-learn {
+        margin-top: 5px;
+    }
+}
+
+@media (min-width: 992px) {
+
+    /*NAVBAR*/
+    .nav-link {
+        margin-right: 40px;
+    }
+
+    .nav-link:hover::after {
+        content: '';
+        display: block;
+        border-bottom: 3px solid #EF7746;
+        width: 100%;
+        margin: auto;
+        padding: 2px;
+        margin-bottom: -8px;
+    }
+    
+
+    /*JUMBOTRON*/
+    .display-4 {
+        font-size: 36px;
+        line-height: 55px;
+    }
+
+    .lead {
+        font-size: 13px;
+        line-height: 23px;
+        margin-top: 20px;
+    }
+
+    .hero {
+        margin-top: -90px;
+        width: 380px;
+    }
+
+    .button2 {
+        font-size: 13px;
+    }
+
+    /*ABOUT*/
+    .about {
+        margin-top: 300px;
+    }
+
+    .img-about {
+        width: 500px;
+    }
+
+    .about-us {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    p.info{
+        font-size: 12px;
+    }
+    
+    .about-us h1 {
+        font-size: 31px;
+        line-height: 45px;
+    }
+    
+    .mb-4 {
+        font-size: 11px;
+        margin-top: 10px;
+    }
+    #btn-learn {
+        margin-top: -5px;
+ 
+    }
+ 
+}
+
+@media (min-width: 1200px) {
+
+    /*JUMBOTRON*/
+    .display-4 {
+        font-size: 40px;
+        line-height: 65px;
+    }
+
+    .lead {
+        font-size: 13px;
+        line-height: 23px;
+        margin-top: 20px;
+    }
+
+    .hero {
+        margin-top: -100px;
+        width: 520px;
+    }
+
+    /*ABOUT*/ 
+    .about-us {
+        margin-top: 30px;
+    }
+    
+    p.info{
+        font-size: 14px;
+    }
+    
+    .about-us h1 {
+        font-size: 36px;
+        line-height: 52px;
+    }            
+    #btn-learn {
+        font-size: 13px;
+        margin-top: 5px;
+ 
+    }
+ }
+ 
